@@ -8,7 +8,9 @@ function App() {
 
       change
 
-      branch
+      diff
+
+      push
     </div>
   );
 }
