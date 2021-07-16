@@ -5,13 +5,6 @@ function App() {
   return (
     <div className="App">
       Reactですw
-      branch
-      branch
-      マージテストおおおおおおおおおおおおおお
-      test
-      test
-      mergemergemergemerge
-      merge merrrrrrrrrrrge
     </div>
   );
 }
