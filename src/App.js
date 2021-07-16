@@ -5,12 +5,6 @@ function App() {
   return (
     <div className="App">
       Reactですw
-
-      change
-
-      diff
-
-      push
     </div>
   );
 }
