@@ -7,6 +7,7 @@ function App() {
       Reactですw
       branch
       branch
+      マージテストおおおおおおおおおおおおおお
     </div>
   );
 }
